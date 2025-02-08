@@ -4,5 +4,6 @@
   "runs-on": "ubuntu-latest",
   "type": "PTE",
   "useProjectDependencies": true,
-  "shell": "pwsh"
+  "shell": "pwsh",
+  "templateSha": "04c17cbd2cc60e73f2a588ffa6ec4696ca938f38"
 }
